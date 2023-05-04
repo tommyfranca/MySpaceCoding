@@ -1,1 +1,1 @@
-# MySpaceCoding, prendi quello che ti vuoi! Negli altri branches troverai codici C++ e CSS.
+# MySpaceCoding, prendi quello che vuoi! Negli altri branches troverai codici C++ e CSS.
